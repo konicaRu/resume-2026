@@ -1,0 +1,20 @@
+# Temporary extraction/output files
+*_extracted.txt
+*.tmp
+*.temp
+*.bak
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+~$*
+
+# Python/cache noise if helper scripts appear later
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local agent/cache noise
+.codex/
+.git.empty-blocked/
