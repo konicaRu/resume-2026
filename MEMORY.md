@@ -13,6 +13,8 @@
 - `project-starter.md` скопирован в корень проекта.
 - Humanizer включён как принцип финальной шлифовки текстов.
 - Накопительные правила включены через `RULES.md`.
+- Git инициализирован, remote подключён: `https://github.com/konicaRu/resume-2026.git`.
+- Первый коммит отправлен в GitHub на ветку `main`.
 
 ## Открытые вопросы
 
@@ -27,6 +29,9 @@
 - Прочитан `C:\claude_code_projects\project-starter\project-starter.md`.
 - Пользователь подтвердил: цель, русский язык, контекстные файлы, git/GitHub, накопительные правила, humanizer, копию `project-starter.md`.
 - Принято решение: проект вести на русском, готовить отдельные версии резюме под роли, пушить в GitHub `konicaRu/resume-2026` после настройки приватности.
+- Git инициализирован в `C:\claude_code_projects\resume_2026`.
+- Подключён remote `origin`: `https://github.com/konicaRu/resume-2026.git`.
+- Первый коммит `63d6485 Initialize resume project` успешно отправлен в `origin/main`.
 
 ### 2026-06-26 — резюме под аналитика данных
 
